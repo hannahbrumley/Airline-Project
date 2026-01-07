@@ -1,0 +1,5594 @@
+CUSTOMER_ENQUEUES {
+  Time: 12:00
+  Ticket: 9534
+  Name: Calliope Denny Jamille
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:00
+  Ticket: 3387
+  Name: Chauntay Andrae
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:00
+  Ticket: 5912
+  Name: Va Yaritza
+}
+CUSTOMER_BOARDS {
+  Time: 12:00
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:00
+  Ticket: 3783
+  Name: Mazin Katonya
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:00
+  Ticket: 7383
+  Name: Latifah Kalila Ernesha
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:00
+  Ticket: 5881
+  Name: Krystol Jerrico
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:00
+  Ticket: 7172
+  Name: Kosha Parker
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:00
+  Ticket: 5194
+  Name: Sashia Sarajane Collis
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:00
+  Ticket: 7599
+  Name: Lareina Chrstina Valeria
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:00
+  Ticket: 2253
+  Name: Halee Latoiya
+}
+CUSTOMER_BOARDS {
+  Time: 12:00
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:01
+  Ticket: 9834
+  Name: Tarique Correen Creston
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:01
+  Ticket: 10084
+  Name: Denita Collette Keyondra
+}
+CUSTOMER_BOARDS {
+  Time: 12:01
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:01
+  Ticket: 8704
+  Name: Shameika Caralyn Ford
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:01
+  Ticket: 3407
+  Name: Skipper Dandra
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:01
+  Ticket: 1626
+  Name: Mackenzie Ricco
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:01
+  Ticket: 6026
+  Name: Marquise Shenise Andray
+}
+CUSTOMER_BOARDS {
+  Time: 12:01
+}
+CUSTOMER_BOARDS {
+  Time: 12:01
+}
+CUSTOMER_BOARDS {
+  Time: 12:01
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:01
+  Ticket: 5496
+  Name: Ikeisha Taner Angell
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:01
+  Ticket: 10683
+  Name: Felicita Jona
+}
+CUSTOMER_BOARDS {
+  Time: 12:01
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:01
+  Ticket: 6580
+  Name: Cailyn Jase Jaris
+}
+CUSTOMER_BOARDS {
+  Time: 12:01
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:01
+  Ticket: 10290
+  Name: Kandyce Brenden
+}
+CUSTOMER_BOARDS {
+  Time: 12:01
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:01
+  Ticket: 10823
+  Name: Geneen Demetra
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:02
+  Ticket: 6858
+  Name: Tawnya Brannigan
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:02
+  Ticket: 7074
+  Name: Emmanual Davan Sherrice
+}
+CUSTOMER_BOARDS {
+  Time: 12:02
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:02
+  Ticket: 4351
+  Name: Valdemar Jevin
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:02
+  Ticket: 8589
+  Name: Shaneca Marquasha
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:02
+  Ticket: 9685
+  Name: Charvis Tehran Loren
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:02
+  Ticket: 8975
+  Name: Deondrae Linsdey Rany
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:02
+  Ticket: 4808
+  Name: Yovani Witney
+}
+CUSTOMER_BOARDS {
+  Time: 12:02
+}
+CUSTOMER_BOARDS {
+  Time: 12:02
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:02
+  Ticket: 6362
+  Name: Carma Kiet
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:02
+  Ticket: 1362
+  Name: Chevy Hermes Ruth
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:02
+  Ticket: 9777
+  Name: Terrisa Velicia Nikesh
+}
+CUSTOMER_BOARDS {
+  Time: 12:03
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:03
+  Ticket: 2827
+  Name: Thersa Jasmen
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:03
+  Ticket: 8545
+  Name: Meenakshi Eleazar Colon
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:03
+  Ticket: 6810
+  Name: Zulema Quay
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:03
+  Ticket: 9528
+  Name: Melinda Jimmie
+}
+CUSTOMER_BOARDS {
+  Time: 12:03
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:03
+  Ticket: 10832
+  Name: Jovani Rheanne
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:03
+  Ticket: 7896
+  Name: Elijah Denard
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:03
+  Ticket: 6121
+  Name: Ruchi Christalle
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:03
+  Ticket: 10018
+  Name: Johnda Yuridia Hunter
+}
+CUSTOMER_BOARDS {
+  Time: 12:03
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:03
+  Ticket: 9196
+  Name: Kawan Jameika
+}
+CUSTOMER_BOARDS {
+  Time: 12:03
+}
+CUSTOMER_BOARDS {
+  Time: 12:03
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:03
+  Ticket: 2675
+  Name: Raynisha Ritchie Stephenie
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:04
+  Ticket: 4969
+  Name: Nairobi Freddrick
+}
+CUSTOMER_BOARDS {
+  Time: 12:04
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:04
+  Ticket: 7309
+  Name: Sendy Tysheka
+}
+CUSTOMER_BOARDS {
+  Time: 12:04
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:04
+  Ticket: 5518
+  Name: Ellery Bennett
+}
+CUSTOMER_BOARDS {
+  Time: 12:04
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:04
+  Ticket: 1812
+  Name: Torry Layce
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:04
+  Ticket: 7578
+  Name: Desmone Corinthian
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:04
+  Ticket: 2039
+  Name: Cicily Yanelis
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:04
+  Ticket: 6959
+  Name: Kadeidra Orelia Teya
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:04
+  Ticket: 9581
+  Name: Randell Casondra
+}
+CUSTOMER_BOARDS {
+  Time: 12:04
+}
+CUSTOMER_BOARDS {
+  Time: 12:04
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:04
+  Ticket: 2227
+  Name: Makida Jahmal Shenae
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:04
+  Ticket: 8795
+  Name: Ina Robbie
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:05
+  Ticket: 6970
+  Name: Oriana Dimetrius
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:05
+  Ticket: 1050
+  Name: Chantale Hunter Lashayla
+}
+CUSTOMER_BOARDS {
+  Time: 12:05
+}
+CUSTOMER_BOARDS {
+  Time: 12:05
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:05
+  Ticket: 9144
+  Name: Temia Seve Laquincy
+}
+CUSTOMER_BOARDS {
+  Time: 12:05
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:05
+  Ticket: 6135
+  Name: Donae Merilyn
+}
+CUSTOMER_BOARDS {
+  Time: 12:05
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:05
+  Ticket: 8251
+  Name: Lashawn Shamel Douglas
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:05
+  Ticket: 4757
+  Name: Nashira Krissa
+}
+CUSTOMER_BOARDS {
+  Time: 12:05
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:05
+  Ticket: 5227
+  Name: Joclyn Alessia
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:05
+  Ticket: 10376
+  Name: Lynnsey Ehren Kymberlee
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:05
+  Ticket: 2697
+  Name: Cheree Jeanelle
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:05
+  Ticket: 5957
+  Name: Billyjoe Elayne Necole
+}
+CUSTOMER_BOARDS {
+  Time: 12:06
+}
+CUSTOMER_BOARDS {
+  Time: 12:06
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:06
+  Ticket: 7114
+  Name: Aldon Taryn Latrena
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:06
+  Ticket: 1783
+  Name: Jessyka Pal Tacoya
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:06
+  Ticket: 8075
+  Name: Navia Aundrea Corynn
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:06
+  Ticket: 6251
+  Name: Leon Demecia Augusta
+}
+CUSTOMER_BOARDS {
+  Time: 12:06
+}
+CUSTOMER_BOARDS {
+  Time: 12:06
+}
+CUSTOMER_BOARDS {
+  Time: 12:06
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:06
+  Ticket: 5216
+  Name: Mckayla Shariann
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:06
+  Ticket: 6835
+  Name: Lacreasha Gretta Claiborne
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:06
+  Ticket: 8183
+  Name: Xiong Chessica Lucila
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:06
+  Ticket: 6785
+  Name: Mikey Janell Marco
+}
+CUSTOMER_BOARDS {
+  Time: 12:06
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:06
+  Ticket: 1023
+  Name: Kameisha Serria Arshad
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:06
+  Ticket: 7615
+  Name: Maylene Eugenio Denon
+}
+CUSTOMER_BOARDS {
+  Time: 12:07
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:07
+  Ticket: 9748
+  Name: Qunisha Lynett Lashandra
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:07
+  Ticket: 7200
+  Name: Piotr Shante
+}
+CUSTOMER_BOARDS {
+  Time: 12:07
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:07
+  Ticket: 2368
+  Name: Jeramy Dwanna Kandee
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:07
+  Ticket: 3437
+  Name: Katrinia Sol Burnell
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:07
+  Ticket: 5212
+  Name: Andreana Malessa
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:07
+  Ticket: 7349
+  Name: Georgios Calen
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:07
+  Ticket: 2828
+  Name: Daleena Serita
+}
+CUSTOMER_BOARDS {
+  Time: 12:07
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:07
+  Ticket: 1851
+  Name: Sanjiv Ritu
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:07
+  Ticket: 5862
+  Name: Winslow Sheri
+}
+CUSTOMER_BOARDS {
+  Time: 12:07
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:07
+  Ticket: 3738
+  Name: Brody Tamela
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:07
+  Ticket: 7827
+  Name: Dorie Ita Axel
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:08
+  Ticket: 4104
+  Name: Keoni Coralia
+}
+CUSTOMER_BOARDS {
+  Time: 12:08
+}
+CUSTOMER_BOARDS {
+  Time: 12:08
+}
+CUSTOMER_BOARDS {
+  Time: 12:08
+}
+CUSTOMER_BOARDS {
+  Time: 12:08
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:08
+  Ticket: 7755
+  Name: Rafe Monque Katryna
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:08
+  Ticket: 4722
+  Name: Humberto Lubna
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:08
+  Ticket: 9182
+  Name: Karinda Erskine
+}
+CUSTOMER_BOARDS {
+  Time: 12:08
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:08
+  Ticket: 5046
+  Name: Dalilah Dario Cherish
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:08
+  Ticket: 2109
+  Name: Trysta Brianca Antron
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:08
+  Ticket: 7705
+  Name: Akesha Dayton
+}
+CUSTOMER_BOARDS {
+  Time: 12:08
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:08
+  Ticket: 8595
+  Name: Rebecca Kametria Rifka
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:09
+  Ticket: 3292
+  Name: Efrain Sarahi Benancio
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:09
+  Ticket: 3560
+  Name: Deysi Abdul
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:09
+  Ticket: 8894
+  Name: Miceala Leonila Serrina
+}
+CUSTOMER_BOARDS {
+  Time: 12:09
+}
+CUSTOMER_BOARDS {
+  Time: 12:09
+}
+CUSTOMER_BOARDS {
+  Time: 12:09
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:09
+  Ticket: 4099
+  Name: Kalei Sarha
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:09
+  Ticket: 3827
+  Name: Diesha Vandell
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:09
+  Ticket: 1778
+  Name: Shaketta Alondria
+}
+CUSTOMER_BOARDS {
+  Time: 12:09
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:09
+  Ticket: 5995
+  Name: Johnnathan December Darbi
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:09
+  Ticket: 10688
+  Name: Early Leighton Jamielyn
+}
+CUSTOMER_BOARDS {
+  Time: 12:09
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:09
+  Ticket: 5467
+  Name: Rhett Rushabh Renessa
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:09
+  Ticket: 1058
+  Name: Jeane Bradlee
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:09
+  Ticket: 10595
+  Name: Devron Ilaisaane
+}
+CUSTOMER_BOARDS {
+  Time: 12:10
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:10
+  Ticket: 10527
+  Name: Alyssia Jeff Una
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:10
+  Ticket: 8290
+  Name: Cesar Jyoti Brittay
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:10
+  Ticket: 9637
+  Name: Kestrel Omari Lateasha
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:10
+  Ticket: 2397
+  Name: Lilliane Uriah
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:10
+  Ticket: 10113
+  Name: Celines Vicky Waseem
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:10
+  Ticket: 10091
+  Name: Mathew Heathr
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:10
+  Ticket: 7360
+  Name: Rissa Tauni Rosibel
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:10
+  Ticket: 6199
+  Name: Merry Jalena
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:10
+  Ticket: 2165
+  Name: Ambra Dmario Huston
+}
+CUSTOMER_BOARDS {
+  Time: 12:10
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:11
+  Ticket: 4916
+  Name: Marek Wilda
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:11
+  Ticket: 5319
+  Name: Searra Kenora Harinder
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:11
+  Ticket: 5947
+  Name: Haylie Kota Wellington
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:11
+  Ticket: 2731
+  Name: Stasia Amandeep Omair
+}
+CUSTOMER_BOARDS {
+  Time: 12:11
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:11
+  Ticket: 10594
+  Name: Nickisha Ahmad
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:11
+  Ticket: 10343
+  Name: Cleo Porsha Dorsey
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:11
+  Ticket: 5873
+  Name: Neville Laurel
+}
+CUSTOMER_BOARDS {
+  Time: 12:11
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:11
+  Ticket: 8670
+  Name: Recardo Durelle Jillayne
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:11
+  Ticket: 7963
+  Name: Meesha Sylena
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:11
+  Ticket: 5771
+  Name: Silvano Taraann Tranell
+}
+CUSTOMER_BOARDS {
+  Time: 12:11
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:12
+  Ticket: 4401
+  Name: Darek Matilda Sindia
+}
+CUSTOMER_BOARDS {
+  Time: 12:12
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:12
+  Ticket: 9785
+  Name: Josef Stalin Alka
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:12
+  Ticket: 10202
+  Name: Malary Adina Misael
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:12
+  Ticket: 6375
+  Name: Sharona Eytan
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:12
+  Ticket: 1560
+  Name: Haneef Lolita
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:12
+  Ticket: 6697
+  Name: Jaya Samirah Guerline
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:12
+  Ticket: 10933
+  Name: Alania Lindamarie
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:12
+  Ticket: 6732
+  Name: Contessa Lilith Jazmin
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:12
+  Ticket: 6742
+  Name: Daneisha Takeshia Gaines
+}
+CUSTOMER_BOARDS {
+  Time: 12:12
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:12
+  Ticket: 10189
+  Name: Jametta Stephnie
+}
+CUSTOMER_BOARDS {
+  Time: 12:12
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:13
+  Ticket: 3841
+  Name: Brodie Sheina
+}
+CUSTOMER_BOARDS {
+  Time: 12:13
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:13
+  Ticket: 2986
+  Name: Jeanny Shakesha
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:13
+  Ticket: 9553
+  Name: Lowen Arieal
+}
+CUSTOMER_BOARDS {
+  Time: 12:13
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:13
+  Ticket: 4842
+  Name: Shikha Veda
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:13
+  Ticket: 9422
+  Name: Jovanda Cassadie Ephraim
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:13
+  Ticket: 8611
+  Name: Orenthal Lataisha
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:13
+  Ticket: 1790
+  Name: Tiearra Thedore Ketura
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:13
+  Ticket: 9390
+  Name: Nikeya Corvette Shaquela
+}
+CUSTOMER_BOARDS {
+  Time: 12:13
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:13
+  Ticket: 10499
+  Name: Samanth Marvina Peggy
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:13
+  Ticket: 1425
+  Name: Menachem Adrielle
+}
+CUSTOMER_BOARDS {
+  Time: 12:13
+}
+CUSTOMER_BOARDS {
+  Time: 12:13
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:14
+  Ticket: 2799
+  Name: Dorell Shermika
+}
+CUSTOMER_BOARDS {
+  Time: 12:14
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:14
+  Ticket: 4113
+  Name: Hilbert Trystan Vuthy
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:14
+  Ticket: 9007
+  Name: Alia Leighanne Brendalee
+}
+CUSTOMER_BOARDS {
+  Time: 12:14
+}
+CUSTOMER_BOARDS {
+  Time: 12:14
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:14
+  Ticket: 8094
+  Name: Carissa Nakesha Kima
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:14
+  Ticket: 5037
+  Name: Shaquan Anson Anicia
+}
+CUSTOMER_BOARDS {
+  Time: 12:14
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:14
+  Ticket: 3025
+  Name: Kendal Mikal
+}
+CUSTOMER_BOARDS {
+  Time: 12:14
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:14
+  Ticket: 5034
+  Name: Ashok Cami Katelynn
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:14
+  Ticket: 9462
+  Name: Deserae Shian Aja
+}
+CUSTOMER_BOARDS {
+  Time: 12:14
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:14
+  Ticket: 10171
+  Name: Chike Raphael Deljuan
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:14
+  Ticket: 1175
+  Name: Kamron Julien Regis
+}
+CUSTOMER_BOARDS {
+  Time: 12:14
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:15
+  Ticket: 5931
+  Name: Natanael Samaria Nani
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:15
+  Ticket: 8957
+  Name: Naila Tarrance Kailah
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:15
+  Ticket: 4307
+  Name: Tung Shenica
+}
+CUSTOMER_BOARDS {
+  Time: 12:15
+}
+CUSTOMER_BOARDS {
+  Time: 12:15
+}
+CUSTOMER_BOARDS {
+  Time: 12:15
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:15
+  Ticket: 1943
+  Name: Ranesha Kimberley
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:15
+  Ticket: 7466
+  Name: Renecia Lekeya
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:15
+  Ticket: 10250
+  Name: Noelani Marnae
+}
+CUSTOMER_BOARDS {
+  Time: 12:15
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:15
+  Ticket: 9559
+  Name: Rodderick Stephania Awilda
+}
+CUSTOMER_BOARDS {
+  Time: 12:15
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:15
+  Ticket: 7262
+  Name: Theotis Lashawnda
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:15
+  Ticket: 6931
+  Name: Colt Tayanna Joeann
+}
+CUSTOMER_BOARDS {
+  Time: 12:15
+}
+CUSTOMER_BOARDS {
+  Time: 12:15
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:15
+  Ticket: 10838
+  Name: Arianne Kellymarie Saadia
+}
+CUSTOMER_BOARDS {
+  Time: 12:15
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:16
+  Ticket: 6624
+  Name: Niasha Shaconda
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:16
+  Ticket: 1011
+  Name: Roxan Wil
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:16
+  Ticket: 8277
+  Name: Jaquila Adriann
+}
+CUSTOMER_BOARDS {
+  Time: 12:16
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:16
+  Ticket: 9864
+  Name: Chelsia Kennia Dannielle
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:16
+  Ticket: 10491
+  Name: Kennon Arica Antonine
+}
+CUSTOMER_BOARDS {
+  Time: 12:16
+}
+CUSTOMER_BOARDS {
+  Time: 12:16
+}
+CUSTOMER_BOARDS {
+  Time: 12:16
+}
+CUSTOMER_BOARDS {
+  Time: 12:16
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:16
+  Ticket: 3068
+  Name: Huong Chandell
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:16
+  Ticket: 8603
+  Name: Veena Dustun Hannan
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:16
+  Ticket: 1803
+  Name: Quinlan Clarance
+}
+CUSTOMER_BOARDS {
+  Time: 12:16
+}
+CUSTOMER_BOARDS {
+  Time: 12:16
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:16
+  Ticket: 2599
+  Name: Shoshannah Kaipo Tehran
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:16
+  Ticket: 1983
+  Name: Denver Astrid
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:16
+  Ticket: 4051
+  Name: Collette Chantal Aser
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:17
+  Ticket: 8007
+  Name: Deborah Brynna Robina
+}
+CUSTOMER_BOARDS {
+  Time: 12:17
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:17
+  Ticket: 5971
+  Name: Denna Jimy Nou
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:17
+  Ticket: 1896
+  Name: Todd Kimblery
+}
+CUSTOMER_BOARDS {
+  Time: 12:17
+}
+CUSTOMER_BOARDS {
+  Time: 12:17
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:17
+  Ticket: 4102
+  Name: Gema Yahayra Rad
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:17
+  Ticket: 3635
+  Name: Annalyn Dora Guiseppe
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:17
+  Ticket: 7391
+  Name: Dasean Staphanie
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:17
+  Ticket: 1068
+  Name: Cornelious Dede
+}
+CUSTOMER_BOARDS {
+  Time: 12:17
+}
+CUSTOMER_BOARDS {
+  Time: 12:17
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:17
+  Ticket: 7985
+  Name: Chasiti Twanisha Ivonne
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:17
+  Ticket: 9148
+  Name: Yareli Lindee
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:17
+  Ticket: 4294
+  Name: Jalisa Shavonn
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:18
+  Ticket: 8808
+  Name: Benton Jasmina
+}
+CUSTOMER_BOARDS {
+  Time: 12:18
+}
+CUSTOMER_BOARDS {
+  Time: 12:18
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:18
+  Ticket: 1641
+  Name: Viki Marilu Aida
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:18
+  Ticket: 1133
+  Name: Breaunna Carlisa
+}
+CUSTOMER_BOARDS {
+  Time: 12:18
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:18
+  Ticket: 7977
+  Name: Kurstin Latishia
+}
+CUSTOMER_BOARDS {
+  Time: 12:18
+}
+CUSTOMER_BOARDS {
+  Time: 12:18
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:18
+  Ticket: 3297
+  Name: Brittni Safiyah
+}
+CUSTOMER_BOARDS {
+  Time: 12:18
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:18
+  Ticket: 8594
+  Name: Gwendolynn Sunni Meshach
+}
+CUSTOMER_BOARDS {
+  Time: 12:18
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:18
+  Ticket: 4657
+  Name: Berenise Lorean Thadius
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:18
+  Ticket: 3567
+  Name: Johni Josi
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:18
+  Ticket: 5045
+  Name: Atthew Nadine
+}
+CUSTOMER_BOARDS {
+  Time: 12:18
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:18
+  Ticket: 8795
+  Name: Tyjuan Tillie Eason
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:19
+  Ticket: 9056
+  Name: Lynelle Odelia
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:19
+  Ticket: 5568
+  Name: Viola Tho Shakeela
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:19
+  Ticket: 7316
+  Name: Travares Brittanie
+}
+CUSTOMER_BOARDS {
+  Time: 12:19
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:19
+  Ticket: 2648
+  Name: Rhys Winton Richy
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:19
+  Ticket: 5171
+  Name: Ameer Aleka
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:19
+  Ticket: 10895
+  Name: Latrice Henderson
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:19
+  Ticket: 5218
+  Name: Jeren Chadd
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:19
+  Ticket: 10165
+  Name: Alphonso Akbar Sharie
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:19
+  Ticket: 3455
+  Name: Atom Vanny Hyman
+}
+CUSTOMER_BOARDS {
+  Time: 12:19
+}
+CUSTOMER_BOARDS {
+  Time: 12:19
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:19
+  Ticket: 10493
+  Name: Shanai Lacarla
+}
+CUSTOMER_BOARDS {
+  Time: 12:20
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:20
+  Ticket: 3854
+  Name: Elena Babygirl
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:20
+  Ticket: 6455
+  Name: Kennesha Calogero
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:20
+  Ticket: 7025
+  Name: Molli Jillienne Rudi
+}
+CUSTOMER_BOARDS {
+  Time: 12:20
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:20
+  Ticket: 10671
+  Name: Jerrel Jessamyn Phillis
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:20
+  Ticket: 3126
+  Name: Gerado Rosalva Hallie
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:20
+  Ticket: 1128
+  Name: Tambria Jenese
+}
+CUSTOMER_BOARDS {
+  Time: 12:20
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:20
+  Ticket: 4088
+  Name: Geremy Tabbitha Jennalyn
+}
+CUSTOMER_BOARDS {
+  Time: 12:20
+}
+CUSTOMER_BOARDS {
+  Time: 12:20
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:20
+  Ticket: 5069
+  Name: Jaris Delena
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:20
+  Ticket: 2743
+  Name: Catie Britt Tira
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:20
+  Ticket: 1891
+  Name: Laneesha Jamaris
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:20
+  Ticket: 4192
+  Name: Nyomi Brenan Davena
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:20
+  Ticket: 6678
+  Name: Kipp Cassie
+}
+CUSTOMER_BOARDS {
+  Time: 12:20
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:21
+  Ticket: 2136
+  Name: Jordan Henry Gregary
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:21
+  Ticket: 5721
+  Name: Recco Tymika Rico
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:21
+  Ticket: 5042
+  Name: Latria Belle
+}
+CUSTOMER_BOARDS {
+  Time: 12:21
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:21
+  Ticket: 6162
+  Name: Damar Desta Yara
+}
+CUSTOMER_BOARDS {
+  Time: 12:21
+}
+CUSTOMER_BOARDS {
+  Time: 12:21
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:21
+  Ticket: 10920
+  Name: Hadiya Teena
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:21
+  Ticket: 3404
+  Name: Huan Britni
+}
+CUSTOMER_BOARDS {
+  Time: 12:21
+}
+CUSTOMER_BOARDS {
+  Time: 12:21
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:21
+  Ticket: 9660
+  Name: Tashay Sanuel Jaynell
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:21
+  Ticket: 1367
+  Name: Kaelee Dawan
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:21
+  Ticket: 2888
+  Name: Arian Tranise
+}
+CUSTOMER_BOARDS {
+  Time: 12:22
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:22
+  Ticket: 4287
+  Name: Averie Roosevelt Karisma
+}
+CUSTOMER_BOARDS {
+  Time: 12:22
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:22
+  Ticket: 4589
+  Name: Trae Darrol Felecia
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:22
+  Ticket: 6103
+  Name: Isrrael Johnda
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:22
+  Ticket: 10337
+  Name: Gennifer Katharine
+}
+CUSTOMER_BOARDS {
+  Time: 12:22
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:22
+  Ticket: 10945
+  Name: Legrande Moises Lacourtney
+}
+CUSTOMER_BOARDS {
+  Time: 12:22
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:22
+  Ticket: 1038
+  Name: Renelle Adeel Indiana
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:22
+  Ticket: 3504
+  Name: Dexter Rafiq Natalie
+}
+CUSTOMER_BOARDS {
+  Time: 12:22
+}
+CUSTOMER_BOARDS {
+  Time: 12:22
+}
+CUSTOMER_BOARDS {
+  Time: 12:22
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:22
+  Ticket: 3452
+  Name: Elio Celeste
+}
+CUSTOMER_BOARDS {
+  Time: 12:22
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:22
+  Ticket: 3887
+  Name: Jhon Jacinto
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:23
+  Ticket: 8804
+  Name: Steffen Jory Jontue
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:23
+  Ticket: 3281
+  Name: Edrick Rosetta Toren
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:23
+  Ticket: 6091
+  Name: Curtissa Chameka
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:23
+  Ticket: 1741
+  Name: Lia Lindee
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:23
+  Ticket: 3103
+  Name: Shivonne Sarahanne
+}
+CUSTOMER_BOARDS {
+  Time: 12:23
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:23
+  Ticket: 10072
+  Name: Jeremy Darrelle Larenda
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:23
+  Ticket: 4239
+  Name: Keeley Ceri
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:23
+  Ticket: 7620
+  Name: Damesha Saray Kayse
+}
+CUSTOMER_BOARDS {
+  Time: 12:23
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:23
+  Ticket: 8324
+  Name: Vinyette Alnisa Belal
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:23
+  Ticket: 6362
+  Name: Erendira Varina
+}
+CUSTOMER_BOARDS {
+  Time: 12:23
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:23
+  Ticket: 3664
+  Name: Edina Reneka
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:23
+  Ticket: 5145
+  Name: Tonimarie Lynnell
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:24
+  Ticket: 5482
+  Name: Shareen Calvert Jacon
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:24
+  Ticket: 2506
+  Name: Avel Turan Cindia
+}
+CUSTOMER_BOARDS {
+  Time: 12:24
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:24
+  Ticket: 6246
+  Name: Nainoa Neftaly
+}
+CUSTOMER_BOARDS {
+  Time: 12:24
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:24
+  Ticket: 2941
+  Name: Georganna Dalton
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:24
+  Ticket: 8685
+  Name: Qunicy Delila Hamzah
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:24
+  Ticket: 2657
+  Name: Zaid Syeda Christne
+}
+CUSTOMER_BOARDS {
+  Time: 12:24
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:24
+  Ticket: 3552
+  Name: Safiyah Roshawnda
+}
+CUSTOMER_BOARDS {
+  Time: 12:24
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:24
+  Ticket: 9724
+  Name: Kashira Tamara Destiny
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:24
+  Ticket: 4206
+  Name: Maxamillion Danylle
+}
+CUSTOMER_BOARDS {
+  Time: 12:24
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:24
+  Ticket: 4687
+  Name: Meesha Daron Deloren
+}
+CUSTOMER_BOARDS {
+  Time: 12:24
+}
+CUSTOMER_BOARDS {
+  Time: 12:24
+}
+CUSTOMER_BOARDS {
+  Time: 12:25
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:25
+  Ticket: 1284
+  Name: Nicholis Edina Maichael
+}
+CUSTOMER_BOARDS {
+  Time: 12:25
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:25
+  Ticket: 7777
+  Name: Yannick Jenipher Pamelia
+}
+CUSTOMER_BOARDS {
+  Time: 12:25
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:25
+  Ticket: 7875
+  Name: Camia Susa
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:25
+  Ticket: 6780
+  Name: Kasy Donal
+}
+CUSTOMER_BOARDS {
+  Time: 12:25
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:25
+  Ticket: 3285
+  Name: Marcey Keera
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:25
+  Ticket: 4652
+  Name: Alcides Equan
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:25
+  Ticket: 5522
+  Name: Jabril Tray Kellon
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:25
+  Ticket: 2227
+  Name: Brendt Cirilo Jairo
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:26
+  Ticket: 7203
+  Name: Narciso Misty
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:26
+  Ticket: 4078
+  Name: Soledad Len
+}
+CUSTOMER_BOARDS {
+  Time: 12:26
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:26
+  Ticket: 6416
+  Name: Niel Dina Khanh
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:26
+  Ticket: 4777
+  Name: Folashade Terez Kalyn
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:26
+  Ticket: 9486
+  Name: Javian Josh
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:26
+  Ticket: 8424
+  Name: Osmond Claressa
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:26
+  Ticket: 3999
+  Name: Amparo Nanisha Sharanda
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:26
+  Ticket: 1800
+  Name: Agata Sutton Jabier
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:26
+  Ticket: 4525
+  Name: Flavia Leya
+}
+CUSTOMER_BOARDS {
+  Time: 12:26
+}
+CUSTOMER_BOARDS {
+  Time: 12:26
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:26
+  Ticket: 10644
+  Name: Jeanpierre Farren
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:27
+  Ticket: 1491
+  Name: Rhet Macon
+}
+CUSTOMER_BOARDS {
+  Time: 12:27
+}
+CUSTOMER_BOARDS {
+  Time: 12:27
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:27
+  Ticket: 3809
+  Name: Bradon Lateria Mistina
+}
+CUSTOMER_BOARDS {
+  Time: 12:27
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:27
+  Ticket: 7012
+  Name: Aaren Natoya Riki
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:27
+  Ticket: 7812
+  Name: Lean Ananias Chauntae
+}
+CUSTOMER_BOARDS {
+  Time: 12:27
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:27
+  Ticket: 10502
+  Name: Carlotta Levon Mieko
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:27
+  Ticket: 8378
+  Name: Larisa Marten Randon
+}
+CUSTOMER_BOARDS {
+  Time: 12:27
+}
+CUSTOMER_BOARDS {
+  Time: 12:27
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:27
+  Ticket: 10396
+  Name: Zora Sabrenia Aubri
+}
+CUSTOMER_BOARDS {
+  Time: 12:27
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:27
+  Ticket: 2911
+  Name: Daniela Shontia Latreece
+}
+CUSTOMER_BOARDS {
+  Time: 12:27
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:27
+  Ticket: 6559
+  Name: Joshue Alden Mykia
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:27
+  Ticket: 6061
+  Name: Hilton Tyrrell
+}
+CUSTOMER_BOARDS {
+  Time: 12:27
+}
+CUSTOMER_BOARDS {
+  Time: 12:28
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:28
+  Ticket: 10153
+  Name: Yitty Richar
+}
+CUSTOMER_BOARDS {
+  Time: 12:28
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:28
+  Ticket: 7222
+  Name: Frida Leya Lemarcus
+}
+CUSTOMER_BOARDS {
+  Time: 12:28
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:28
+  Ticket: 2479
+  Name: Von Eilene Khalfani
+}
+CUSTOMER_BOARDS {
+  Time: 12:28
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:28
+  Ticket: 10065
+  Name: Britain Shelene
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:28
+  Ticket: 10378
+  Name: Nazario Tara
+}
+CUSTOMER_BOARDS {
+  Time: 12:28
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:28
+  Ticket: 3155
+  Name: Nathania Alegra
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:28
+  Ticket: 9479
+  Name: Isidore Phyllip
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:28
+  Ticket: 9858
+  Name: Sheana Marti Jazzlyn
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:28
+  Ticket: 2324
+  Name: Shawnique Tambria Sayuri
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:28
+  Ticket: 3803
+  Name: Hezekiah Mykel Rondall
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:28
+  Ticket: 4447
+  Name: Dominigue Kateland Lanorris
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:29
+  Ticket: 2887
+  Name: Tymeka Matricia Krissa
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:29
+  Ticket: 2495
+  Name: Echoe Almadelia Yesenia
+}
+CUSTOMER_BOARDS {
+  Time: 12:29
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:29
+  Ticket: 3703
+  Name: Courteney Catrice
+}
+CUSTOMER_BOARDS {
+  Time: 12:29
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:29
+  Ticket: 9026
+  Name: Vinson Demareo Lori
+}
+CUSTOMER_BOARDS {
+  Time: 12:29
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:29
+  Ticket: 9534
+  Name: Gertrude Buford Ala
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:29
+  Ticket: 1651
+  Name: Shundreka Naida Megen
+}
+CUSTOMER_BOARDS {
+  Time: 12:29
+}
+CUSTOMER_BOARDS {
+  Time: 12:29
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:29
+  Ticket: 9549
+  Name: Yesenia Ailene
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:29
+  Ticket: 9760
+  Name: Ashlely Equan
+}
+CUSTOMER_BOARDS {
+  Time: 12:29
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:29
+  Ticket: 3979
+  Name: Pascual Glendy
+}
+CUSTOMER_BOARDS {
+  Time: 12:30
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:30
+  Ticket: 1612
+  Name: Marjory Vahe Latina
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:30
+  Ticket: 7558
+  Name: Annalea Theodor Carlesha
+}
+CUSTOMER_BOARDS {
+  Time: 12:30
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:30
+  Ticket: 8106
+  Name: Manan Amisha Canaan
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:30
+  Ticket: 5007
+  Name: Cayley Tifanie Wilisha
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:30
+  Ticket: 2830
+  Name: Lateefah Cayley Hitesh
+}
+CUSTOMER_BOARDS {
+  Time: 12:30
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:30
+  Ticket: 5206
+  Name: Shuan Florance Lindsi
+}
+CUSTOMER_BOARDS {
+  Time: 12:30
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:30
+  Ticket: 3016
+  Name: Lilyana Orlan
+}
+CUSTOMER_BOARDS {
+  Time: 12:30
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:30
+  Ticket: 10858
+  Name: Calliope Elidia
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:30
+  Ticket: 8663
+  Name: Saturnino Kiala
+}
+CUSTOMER_BOARDS {
+  Time: 12:30
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:30
+  Ticket: 1270
+  Name: Wil Kekoa Bijal
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:31
+  Ticket: 1266
+  Name: Dewarren Camden
+}
+CUSTOMER_BOARDS {
+  Time: 12:31
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:31
+  Ticket: 5239
+  Name: Kewan Lathisa
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:31
+  Ticket: 7255
+  Name: Wilmary Lars
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:31
+  Ticket: 1744
+  Name: Dartanion Bessie
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:31
+  Ticket: 3340
+  Name: Bracken Demitri Jesiah
+}
+CUSTOMER_BOARDS {
+  Time: 12:31
+}
+CUSTOMER_BOARDS {
+  Time: 12:31
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:31
+  Ticket: 8515
+  Name: Marquita Annalissa
+}
+CUSTOMER_BOARDS {
+  Time: 12:31
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:31
+  Ticket: 3173
+  Name: Alek Diseree Emmauel
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:31
+  Ticket: 1071
+  Name: Brittani Ashtyn
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:31
+  Ticket: 1976
+  Name: Stormy Omri Tajuanna
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:31
+  Ticket: 9006
+  Name: Nidia Vinita
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:32
+  Ticket: 6437
+  Name: Bridgid Kula
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:32
+  Ticket: 8999
+  Name: Wanda Demarques Sharnay
+}
+CUSTOMER_BOARDS {
+  Time: 12:32
+}
+CUSTOMER_BOARDS {
+  Time: 12:32
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:32
+  Ticket: 2266
+  Name: Jeannete Mikela
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:32
+  Ticket: 10522
+  Name: Remi Merisa
+}
+CUSTOMER_BOARDS {
+  Time: 12:32
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:32
+  Ticket: 9943
+  Name: Markel Marielena
+}
+CUSTOMER_BOARDS {
+  Time: 12:32
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:32
+  Ticket: 9085
+  Name: Bruna Avis
+}
+CUSTOMER_BOARDS {
+  Time: 12:32
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:32
+  Ticket: 5204
+  Name: Karen Enas
+}
+CUSTOMER_BOARDS {
+  Time: 12:32
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:32
+  Ticket: 4848
+  Name: Peri Jalana
+}
+CUSTOMER_BOARDS {
+  Time: 12:32
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:32
+  Ticket: 3776
+  Name: Seth Dammon Myles
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:32
+  Ticket: 1601
+  Name: Shakeeta Lovely Filberto
+}
+CUSTOMER_BOARDS {
+  Time: 12:33
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:33
+  Ticket: 3558
+  Name: Aiden Dupree Jema
+}
+CUSTOMER_BOARDS {
+  Time: 12:33
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:33
+  Ticket: 6990
+  Name: Adonnis Wes Nephi
+}
+CUSTOMER_BOARDS {
+  Time: 12:33
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:33
+  Ticket: 6584
+  Name: Danitra Kenita Branch
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:33
+  Ticket: 7680
+  Name: Laneice Kennon Aneisha
+}
+CUSTOMER_BOARDS {
+  Time: 12:33
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:33
+  Ticket: 10207
+  Name: Special Thelma Cagney
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:33
+  Ticket: 10031
+  Name: Devron Neema Landis
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:33
+  Ticket: 4240
+  Name: Dessirae Princessa
+}
+CUSTOMER_BOARDS {
+  Time: 12:33
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:33
+  Ticket: 1985
+  Name: Jarae Olufemi Bernetta
+}
+CUSTOMER_BOARDS {
+  Time: 12:33
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:33
+  Ticket: 4181
+  Name: Aryn Feliz
+}
+CUSTOMER_BOARDS {
+  Time: 12:33
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:33
+  Ticket: 2596
+  Name: Kaelee Mathan
+}
+CUSTOMER_BOARDS {
+  Time: 12:34
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:34
+  Ticket: 6453
+  Name: Teria Araceli
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:34
+  Ticket: 7895
+  Name: Rosalina Sahil Kohl
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:34
+  Ticket: 9443
+  Name: Cilicia Derek Katharina
+}
+CUSTOMER_BOARDS {
+  Time: 12:34
+}
+CUSTOMER_BOARDS {
+  Time: 12:34
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:34
+  Ticket: 6073
+  Name: Venson Shreya
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:34
+  Ticket: 7981
+  Name: Kerin Amandra
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:34
+  Ticket: 1523
+  Name: Breton Megin Flor
+}
+CUSTOMER_BOARDS {
+  Time: 12:34
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:34
+  Ticket: 3453
+  Name: Sobia Laterria
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:34
+  Ticket: 1133
+  Name: Rosheena Demonte
+}
+CUSTOMER_BOARDS {
+  Time: 12:34
+}
+CUSTOMER_BOARDS {
+  Time: 12:34
+}
+CUSTOMER_BOARDS {
+  Time: 12:34
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:34
+  Ticket: 4767
+  Name: Carlynn Melena Crytal
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:34
+  Ticket: 2803
+  Name: Suad Harley
+}
+CUSTOMER_BOARDS {
+  Time: 12:34
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:35
+  Ticket: 4625
+  Name: Chonte Cristinia
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:35
+  Ticket: 8622
+  Name: Jeslyn Brigett Jadelyn
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:35
+  Ticket: 1075
+  Name: Chikita Valerie Alfredrick
+}
+CUSTOMER_BOARDS {
+  Time: 12:35
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:35
+  Ticket: 6692
+  Name: Antoria Darel Derk
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:35
+  Ticket: 1586
+  Name: Hina Mohit Prisilla
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:35
+  Ticket: 5353
+  Name: Tae Margulia
+}
+CUSTOMER_BOARDS {
+  Time: 12:35
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:35
+  Ticket: 1030
+  Name: Keasha Timoth Sasha
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:35
+  Ticket: 3597
+  Name: Aleasha Charleigh Alexzandria
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:35
+  Ticket: 8203
+  Name: Sharief Jenee
+}
+CUSTOMER_BOARDS {
+  Time: 12:35
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:35
+  Ticket: 8138
+  Name: Fanny Darral
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:35
+  Ticket: 3400
+  Name: Eron Mindi Ladd
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:35
+  Ticket: 1316
+  Name: Keefe Bryden Marisia
+}
+CUSTOMER_BOARDS {
+  Time: 12:35
+}
+CUSTOMER_BOARDS {
+  Time: 12:36
+}
+CUSTOMER_BOARDS {
+  Time: 12:36
+}
+CUSTOMER_BOARDS {
+  Time: 12:36
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:36
+  Ticket: 10560
+  Name: Riva Shakiera Mattheu
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:36
+  Ticket: 6471
+  Name: Sherae Kruti Shantrel
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:36
+  Ticket: 10853
+  Name: Jeremias Pervis
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:36
+  Ticket: 9710
+  Name: Antoinette Fredis Clent
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:36
+  Ticket: 4882
+  Name: Jaimie Ebony
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:36
+  Ticket: 7313
+  Name: Josefine Flavio
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:36
+  Ticket: 1517
+  Name: Marieke Ermelinda
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:36
+  Ticket: 10373
+  Name: Geovanny Gianpaolo Candido
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:37
+  Ticket: 4530
+  Name: Teela Redmond
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:37
+  Ticket: 10736
+  Name: Ernst Tria Nephi
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:37
+  Ticket: 9446
+  Name: Rommel Brandilynn
+}
+CUSTOMER_BOARDS {
+  Time: 12:37
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:37
+  Ticket: 6199
+  Name: Gumaro Starlina Breann
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:37
+  Ticket: 9575
+  Name: Jeron Zain Duncan
+}
+CUSTOMER_BOARDS {
+  Time: 12:37
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:37
+  Ticket: 9670
+  Name: Caylan Raine
+}
+CUSTOMER_BOARDS {
+  Time: 12:37
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:37
+  Ticket: 1775
+  Name: Lyndi Andrey Glinda
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:37
+  Ticket: 1148
+  Name: Grover Casee
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:37
+  Ticket: 6660
+  Name: Tashea Bedford Kelleen
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:37
+  Ticket: 6396
+  Name: Destine Tallon
+}
+CUSTOMER_BOARDS {
+  Time: 12:37
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:37
+  Ticket: 10481
+  Name: Joshalyn Lashunna Candice
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:38
+  Ticket: 4146
+  Name: Wilfredo Yusuf Tilla
+}
+CUSTOMER_BOARDS {
+  Time: 12:38
+}
+CUSTOMER_BOARDS {
+  Time: 12:38
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:38
+  Ticket: 8105
+  Name: Vannessa Salvadore
+}
+CUSTOMER_BOARDS {
+  Time: 12:38
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:38
+  Ticket: 6200
+  Name: Tiffiany Mickel
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:38
+  Ticket: 10532
+  Name: Gittel Feliciana Shauntae
+}
+CUSTOMER_BOARDS {
+  Time: 12:38
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:38
+  Ticket: 3458
+  Name: Lawren Thad Meara
+}
+CUSTOMER_BOARDS {
+  Time: 12:38
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:38
+  Ticket: 1733
+  Name: Vivian Cheyanne Sharisse
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:38
+  Ticket: 8689
+  Name: Lynesha Davon Kryste
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:38
+  Ticket: 1379
+  Name: Adan Laytoya Sherril
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:38
+  Ticket: 5124
+  Name: Danise Jamol Devora
+}
+CUSTOMER_BOARDS {
+  Time: 12:39
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:39
+  Ticket: 1730
+  Name: Vikki Aleece Aarik
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:39
+  Ticket: 10738
+  Name: Laruen Shadeed Dwaun
+}
+CUSTOMER_BOARDS {
+  Time: 12:39
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:39
+  Ticket: 10014
+  Name: Gerren Abrahm Robynn
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:39
+  Ticket: 9843
+  Name: Danecia Iesha
+}
+CUSTOMER_BOARDS {
+  Time: 12:39
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:39
+  Ticket: 9514
+  Name: Reno Tonia
+}
+CUSTOMER_BOARDS {
+  Time: 12:39
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:39
+  Ticket: 6435
+  Name: Andria Dishon
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:39
+  Ticket: 4524
+  Name: Bedford Caprice Alis
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:39
+  Ticket: 7014
+  Name: Constance Pao Kaylor
+}
+CUSTOMER_BOARDS {
+  Time: 12:39
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:39
+  Ticket: 5693
+  Name: Shanai Shawntay Deitra
+}
+CUSTOMER_BOARDS {
+  Time: 12:39
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:39
+  Ticket: 8271
+  Name: Antonina Veena
+}
+CUSTOMER_BOARDS {
+  Time: 12:40
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:40
+  Ticket: 4961
+  Name: Sacheen Chemere
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:40
+  Ticket: 5366
+  Name: Shamica Cherylann
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:40
+  Ticket: 5659
+  Name: Briston Regena Baltazar
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:40
+  Ticket: 1505
+  Name: Maybelline Ruby Burke
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:40
+  Ticket: 8217
+  Name: Kelvina Mariquita
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:40
+  Ticket: 1040
+  Name: Abbas Karlin Curtissa
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:40
+  Ticket: 6343
+  Name: Gardner Carmesha
+}
+CUSTOMER_BOARDS {
+  Time: 12:40
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:40
+  Ticket: 6727
+  Name: Grandon Neka
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:40
+  Ticket: 7040
+  Name: Eddie Donisha
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:40
+  Ticket: 5775
+  Name: Johnmark Bradie Rhapsody
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:40
+  Ticket: 4938
+  Name: Dorina Kambria Chaun
+}
+CUSTOMER_BOARDS {
+  Time: 12:40
+}
+CUSTOMER_BOARDS {
+  Time: 12:40
+}
+CUSTOMER_BOARDS {
+  Time: 12:40
+}
+CUSTOMER_BOARDS {
+  Time: 12:41
+}
+CUSTOMER_BOARDS {
+  Time: 12:41
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:41
+  Ticket: 7189
+  Name: Shannelle Ankur Kailani
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:41
+  Ticket: 3346
+  Name: Bartlett Shanna
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:41
+  Ticket: 1603
+  Name: Vanda Ora
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:41
+  Ticket: 4231
+  Name: Lenore Ranardo Lenny
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:41
+  Ticket: 5358
+  Name: Walker Elouise Angelamaria
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:41
+  Ticket: 4247
+  Name: Amity Jonita Shalamar
+}
+CUSTOMER_BOARDS {
+  Time: 12:41
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:41
+  Ticket: 2417
+  Name: Angelia Kou Winfred
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:41
+  Ticket: 3074
+  Name: Denver Brittnei
+}
+CUSTOMER_BOARDS {
+  Time: 12:41
+}
+CUSTOMER_BOARDS {
+  Time: 12:41
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:41
+  Ticket: 7743
+  Name: Wilson Bryanna
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:42
+  Ticket: 7312
+  Name: Nichoals Reymundo
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:42
+  Ticket: 3565
+  Name: Orson Donnel
+}
+CUSTOMER_BOARDS {
+  Time: 12:42
+}
+CUSTOMER_BOARDS {
+  Time: 12:42
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:42
+  Ticket: 5955
+  Name: Derren Travelle Stormie
+}
+CUSTOMER_BOARDS {
+  Time: 12:42
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:42
+  Ticket: 6909
+  Name: Soyla Calum Lekisha
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:42
+  Ticket: 4331
+  Name: Teana Cosme
+}
+CUSTOMER_BOARDS {
+  Time: 12:42
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:42
+  Ticket: 9180
+  Name: Sofie Chiketa Yasmeen
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:42
+  Ticket: 6073
+  Name: Fredrica Keonta
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:42
+  Ticket: 9266
+  Name: Laya Yanna
+}
+CUSTOMER_BOARDS {
+  Time: 12:42
+}
+CUSTOMER_BOARDS {
+  Time: 12:42
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:42
+  Ticket: 4608
+  Name: Jaclene Jawanda
+}
+CUSTOMER_BOARDS {
+  Time: 12:42
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:42
+  Ticket: 2239
+  Name: Bren Mercy
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:43
+  Ticket: 9139
+  Name: Arnie Nathaiel
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:43
+  Ticket: 7319
+  Name: Cherilyn Chi Bashir
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:43
+  Ticket: 6390
+  Name: Kabir Jovanni Rayshan
+}
+CUSTOMER_BOARDS {
+  Time: 12:43
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:43
+  Ticket: 4632
+  Name: Rudolph Elsbeth
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:43
+  Ticket: 8716
+  Name: Amirah Keola
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:43
+  Ticket: 5302
+  Name: Jean Liza
+}
+CUSTOMER_BOARDS {
+  Time: 12:43
+}
+CUSTOMER_BOARDS {
+  Time: 12:43
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:43
+  Ticket: 3785
+  Name: Amelie Narin
+}
+CUSTOMER_BOARDS {
+  Time: 12:43
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:43
+  Ticket: 1154
+  Name: Caylin Nohealani Stoney
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:43
+  Ticket: 6558
+  Name: Chais Raissa
+}
+CUSTOMER_BOARDS {
+  Time: 12:43
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:43
+  Ticket: 2580
+  Name: Kaneisha Charlton
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:43
+  Ticket: 7906
+  Name: Shirley Ramzy
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:44
+  Ticket: 4592
+  Name: Laith Pervis Nachman
+}
+CUSTOMER_BOARDS {
+  Time: 12:44
+}
+CUSTOMER_BOARDS {
+  Time: 12:44
+}
+CUSTOMER_BOARDS {
+  Time: 12:44
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:44
+  Ticket: 8167
+  Name: Kathyrn Japheth
+}
+CUSTOMER_BOARDS {
+  Time: 12:44
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:44
+  Ticket: 5739
+  Name: Lakrisha Korin Pernell
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:44
+  Ticket: 9263
+  Name: Shermeka Jeb Daniel
+}
+CUSTOMER_BOARDS {
+  Time: 12:44
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:44
+  Ticket: 4478
+  Name: Latonya Farris Jaqueline
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:44
+  Ticket: 7736
+  Name: Kady Landan
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:44
+  Ticket: 10461
+  Name: Jennipher Aftin
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:44
+  Ticket: 7705
+  Name: Karimah Alfredrick Chinenye
+}
+CUSTOMER_BOARDS {
+  Time: 12:44
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:44
+  Ticket: 3045
+  Name: Baker Bracha Colson
+}
+CUSTOMER_BOARDS {
+  Time: 12:44
+}
+CUSTOMER_BOARDS {
+  Time: 12:44
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:45
+  Ticket: 3141
+  Name: Eleana Corissa
+}
+CUSTOMER_BOARDS {
+  Time: 12:45
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:45
+  Ticket: 4091
+  Name: Ulices Niklas Keelie
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:45
+  Ticket: 10689
+  Name: Deshondra Valena Calin
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:45
+  Ticket: 8395
+  Name: Gerardo Porschea Shavonna
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:45
+  Ticket: 4208
+  Name: Rainie Edelmiro
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:45
+  Ticket: 1954
+  Name: Nada Tamatha
+}
+CUSTOMER_BOARDS {
+  Time: 12:45
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:45
+  Ticket: 10913
+  Name: Joane Ikaika
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:45
+  Ticket: 7812
+  Name: Shakeeta Lorell
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:45
+  Ticket: 7255
+  Name: Tomie Khoa Natash
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:45
+  Ticket: 3404
+  Name: Chay Abbagail
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:46
+  Ticket: 2685
+  Name: Callum Nathaly Isaia
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:46
+  Ticket: 3640
+  Name: Adelyn Yessenia
+}
+CUSTOMER_BOARDS {
+  Time: 12:46
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:46
+  Ticket: 3740
+  Name: Stevenson Yusra Margrett
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:46
+  Ticket: 6133
+  Name: Valincia Latron
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:46
+  Ticket: 9297
+  Name: Tawan Jesicca Maryfrances
+}
+CUSTOMER_BOARDS {
+  Time: 12:46
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:46
+  Ticket: 8228
+  Name: Candie Ikeia
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:46
+  Ticket: 4492
+  Name: Sharnell Faige
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:46
+  Ticket: 2078
+  Name: Dolores Sheterica Roni
+}
+CUSTOMER_BOARDS {
+  Time: 12:46
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:46
+  Ticket: 2682
+  Name: Shaunte Cobin Ramsay
+}
+CUSTOMER_BOARDS {
+  Time: 12:46
+}
+CUSTOMER_BOARDS {
+  Time: 12:46
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:46
+  Ticket: 6051
+  Name: Chaniqua Chelcy
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:47
+  Ticket: 1184
+  Name: Adrew Keeley Shalina
+}
+CUSTOMER_BOARDS {
+  Time: 12:47
+}
+CUSTOMER_BOARDS {
+  Time: 12:47
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:47
+  Ticket: 4725
+  Name: Shawana Laquan
+}
+CUSTOMER_BOARDS {
+  Time: 12:47
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:47
+  Ticket: 10477
+  Name: Alexis Chenay
+}
+CUSTOMER_BOARDS {
+  Time: 12:47
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:47
+  Ticket: 5656
+  Name: Suanne Shaundra
+}
+CUSTOMER_BOARDS {
+  Time: 12:47
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:47
+  Ticket: 5123
+  Name: Halim Kylah
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:47
+  Ticket: 4000
+  Name: Elke Kamal Suong
+}
+CUSTOMER_BOARDS {
+  Time: 12:47
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:47
+  Ticket: 7045
+  Name: Emmie Pearl
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:47
+  Ticket: 1795
+  Name: Safia Theo Esgar
+}
+CUSTOMER_BOARDS {
+  Time: 12:47
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:47
+  Ticket: 8437
+  Name: Phelan Elsbeth Neesa
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:47
+  Ticket: 9917
+  Name: Romeo Joye
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:48
+  Ticket: 8746
+  Name: Pinar Laquinn
+}
+CUSTOMER_BOARDS {
+  Time: 12:48
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:48
+  Ticket: 4506
+  Name: Leilani Timmothy Jamelyn
+}
+CUSTOMER_BOARDS {
+  Time: 12:48
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:48
+  Ticket: 2183
+  Name: Chloe Rosheda Mariam
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:48
+  Ticket: 3653
+  Name: Aldric Jazzmine Cirilo
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:48
+  Ticket: 1860
+  Name: Muneerah Eureka
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:48
+  Ticket: 7226
+  Name: Albina Karine
+}
+CUSTOMER_BOARDS {
+  Time: 12:48
+}
+CUSTOMER_BOARDS {
+  Time: 12:48
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:48
+  Ticket: 6605
+  Name: Elektra Marjon Myah
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:48
+  Ticket: 4615
+  Name: Priscila Noam Lindamarie
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:48
+  Ticket: 1519
+  Name: Kristy Seda Valorie
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:48
+  Ticket: 7913
+  Name: Tamira Kenesha
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:49
+  Ticket: 8909
+  Name: Kang Tonya Kaitland
+}
+CUSTOMER_BOARDS {
+  Time: 12:49
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:49
+  Ticket: 9729
+  Name: Onalee Rasan
+}
+CUSTOMER_BOARDS {
+  Time: 12:49
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:49
+  Ticket: 8790
+  Name: Brookes Amberlyn
+}
+CUSTOMER_BOARDS {
+  Time: 12:49
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:49
+  Ticket: 7203
+  Name: Marcial Sharisse
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:49
+  Ticket: 1006
+  Name: Shontelle Maxfield
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:49
+  Ticket: 7492
+  Name: Bennett Dexter Lovina
+}
+CUSTOMER_BOARDS {
+  Time: 12:49
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:49
+  Ticket: 5827
+  Name: Shaqwana Valori Shantella
+}
+CUSTOMER_BOARDS {
+  Time: 12:49
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:49
+  Ticket: 10548
+  Name: Juaquin Sequita Mckinzie
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:49
+  Ticket: 2224
+  Name: Shelita Cady
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:49
+  Ticket: 10668
+  Name: Siomara Kaj
+}
+CUSTOMER_BOARDS {
+  Time: 12:50
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:50
+  Ticket: 7203
+  Name: Priscilla Brianna Falana
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:50
+  Ticket: 10047
+  Name: Baudelia Rama Ricki
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:50
+  Ticket: 5758
+  Name: Wilford Tunisha Dorissa
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:50
+  Ticket: 10585
+  Name: Jahmar Glenford
+}
+CUSTOMER_BOARDS {
+  Time: 12:50
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:50
+  Ticket: 2527
+  Name: Garylee Amish Chadd
+}
+CUSTOMER_BOARDS {
+  Time: 12:50
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:50
+  Ticket: 5516
+  Name: Reva Shaketa
+}
+CUSTOMER_BOARDS {
+  Time: 12:50
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:50
+  Ticket: 10892
+  Name: Antasia Monic Lurena
+}
+CUSTOMER_BOARDS {
+  Time: 12:50
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:50
+  Ticket: 2204
+  Name: Lizzett Doanld
+}
+CUSTOMER_BOARDS {
+  Time: 12:50
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:50
+  Ticket: 9596
+  Name: Nitin Leon Jerell
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:50
+  Ticket: 10615
+  Name: Doria Gus
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:51
+  Ticket: 8418
+  Name: Pearlie Radha Alandria
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:51
+  Ticket: 6297
+  Name: Shie Deanndra
+}
+CUSTOMER_BOARDS {
+  Time: 12:51
+}
+CUSTOMER_BOARDS {
+  Time: 12:51
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:51
+  Ticket: 9807
+  Name: Alessandra Marycatherine
+}
+CUSTOMER_BOARDS {
+  Time: 12:51
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:51
+  Ticket: 4943
+  Name: Adra Shameeka
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:51
+  Ticket: 3633
+  Name: Tempess Shawntel Toussaint
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:51
+  Ticket: 7551
+  Name: Crystalann Ming Jacobo
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:51
+  Ticket: 1054
+  Name: Elzabeth Skylar
+}
+CUSTOMER_BOARDS {
+  Time: 12:51
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:51
+  Ticket: 1872
+  Name: Dominie Kyli
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:51
+  Ticket: 8307
+  Name: Estefany Lenord
+}
+CUSTOMER_BOARDS {
+  Time: 12:51
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:51
+  Ticket: 1545
+  Name: Corrina Maryclaire Tanyia
+}
+CUSTOMER_BOARDS {
+  Time: 12:52
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:52
+  Ticket: 1818
+  Name: Marlise Nakeeta Isom
+}
+CUSTOMER_BOARDS {
+  Time: 12:52
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:52
+  Ticket: 5666
+  Name: Lauria Roman
+}
+CUSTOMER_BOARDS {
+  Time: 12:52
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:52
+  Ticket: 3014
+  Name: Jim Melani Josette
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:52
+  Ticket: 9390
+  Name: Arvis Merida Zafirah
+}
+CUSTOMER_BOARDS {
+  Time: 12:52
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:52
+  Ticket: 10018
+  Name: Tonesha Shawnice
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:52
+  Ticket: 2975
+  Name: Kellina Crickett
+}
+CUSTOMER_BOARDS {
+  Time: 12:52
+}
+CUSTOMER_BOARDS {
+  Time: 12:52
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:52
+  Ticket: 4661
+  Name: Selenia Cole Georganne
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:52
+  Ticket: 3779
+  Name: Kelcy Jvon
+}
+CUSTOMER_BOARDS {
+  Time: 12:52
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:52
+  Ticket: 3361
+  Name: Eleasha Marcee Santanna
+}
+CUSTOMER_BOARDS {
+  Time: 12:52
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:52
+  Ticket: 5584
+  Name: Shalonda Dustyn
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:53
+  Ticket: 9881
+  Name: Javarius Christalle Bronson
+}
+CUSTOMER_BOARDS {
+  Time: 12:53
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:53
+  Ticket: 1630
+  Name: Giannina Johua Kadee
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:53
+  Ticket: 7376
+  Name: Jermery Lilyana Dennison
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:53
+  Ticket: 10156
+  Name: Becki Lavarr Chantry
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:53
+  Ticket: 2977
+  Name: Michala Jordache
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:53
+  Ticket: 5306
+  Name: Dinisha Ceasar Arvin
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:53
+  Ticket: 6026
+  Name: Johnny Iveliz Audley
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:53
+  Ticket: 5761
+  Name: Edvardo Dandra
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:53
+  Ticket: 2805
+  Name: Jefferson Seyed
+}
+CUSTOMER_BOARDS {
+  Time: 12:53
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:53
+  Ticket: 8598
+  Name: Marvel Marni Johnica
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:54
+  Ticket: 10900
+  Name: Nakeya Omer
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:54
+  Ticket: 5046
+  Name: Crystalina Colette
+}
+CUSTOMER_BOARDS {
+  Time: 12:54
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:54
+  Ticket: 2379
+  Name: Sloane Lakoya
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:54
+  Ticket: 2805
+  Name: Ibn Maly Bao
+}
+CUSTOMER_BOARDS {
+  Time: 12:54
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:54
+  Ticket: 2687
+  Name: Donnamarie Vannesa Braden
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:54
+  Ticket: 10285
+  Name: Dyanne Serrena Gavino
+}
+CUSTOMER_BOARDS {
+  Time: 12:54
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:54
+  Ticket: 7968
+  Name: Latyra Chrislyn
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:54
+  Ticket: 9041
+  Name: Gayland Babak
+}
+CUSTOMER_BOARDS {
+  Time: 12:54
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:54
+  Ticket: 6204
+  Name: Tatianna Treva
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:54
+  Ticket: 8048
+  Name: Legrande Darold Pratima
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:55
+  Ticket: 9735
+  Name: Shalaine Reuben
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:55
+  Ticket: 5372
+  Name: Regena Shevonne
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:55
+  Ticket: 2657
+  Name: Shun Oris
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:55
+  Ticket: 5866
+  Name: Terena Anastassia
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:55
+  Ticket: 9123
+  Name: Monquie Sarahbeth
+}
+CUSTOMER_BOARDS {
+  Time: 12:55
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:55
+  Ticket: 10853
+  Name: Jorie Enza
+}
+CUSTOMER_BOARDS {
+  Time: 12:55
+}
+CUSTOMER_BOARDS {
+  Time: 12:55
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:55
+  Ticket: 4661
+  Name: Lessie Arthur Denia
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:55
+  Ticket: 3932
+  Name: Skyla Shakea Rainbow
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:55
+  Ticket: 3649
+  Name: Shanieka Latron Derric
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:55
+  Ticket: 3881
+  Name: Griffin Doran
+}
+CUSTOMER_BOARDS {
+  Time: 12:55
+}
+CUSTOMER_BOARDS {
+  Time: 12:56
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:56
+  Ticket: 9273
+  Name: Kishia Makena
+}
+CUSTOMER_BOARDS {
+  Time: 12:56
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:56
+  Ticket: 5787
+  Name: Thomasina Ericha Agustine
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:56
+  Ticket: 1757
+  Name: Nichoals Jamilynn
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:56
+  Ticket: 5418
+  Name: Christropher Rasheen Richanda
+}
+CUSTOMER_BOARDS {
+  Time: 12:56
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:56
+  Ticket: 8412
+  Name: Shulem Kaylie
+}
+CUSTOMER_BOARDS {
+  Time: 12:56
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:56
+  Ticket: 8680
+  Name: Sabas Erez
+}
+CUSTOMER_BOARDS {
+  Time: 12:56
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:56
+  Ticket: 3330
+  Name: Jams Sharisse Leahanna
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:56
+  Ticket: 1118
+  Name: Theodora Nekesha
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:56
+  Ticket: 8759
+  Name: Shaw Shaqueta
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:56
+  Ticket: 9634
+  Name: Lotoya Kelcie
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:57
+  Ticket: 4231
+  Name: Marium Isabella Jordyn
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:57
+  Ticket: 8279
+  Name: Taquana Liani Jenean
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:57
+  Ticket: 5076
+  Name: Kelon Clayton
+}
+CUSTOMER_BOARDS {
+  Time: 12:57
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:57
+  Ticket: 1313
+  Name: Sam Cassidi Natilie
+}
+CUSTOMER_BOARDS {
+  Time: 12:57
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:57
+  Ticket: 4481
+  Name: Sadiq Clark Kanethia
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:57
+  Ticket: 1422
+  Name: Karrah Aubrie Rukiya
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:57
+  Ticket: 4653
+  Name: Lekeya Rush Glyn
+}
+CUSTOMER_BOARDS {
+  Time: 12:57
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:57
+  Ticket: 8105
+  Name: Esi Bryden Wali
+}
+CUSTOMER_BOARDS {
+  Time: 12:57
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:57
+  Ticket: 6447
+  Name: Chassity Antawn Gordon
+}
+CUSTOMER_BOARDS {
+  Time: 12:57
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:57
+  Ticket: 4448
+  Name: Leamon Ronit Riann
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:58
+  Ticket: 10425
+  Name: Puanani Adriano
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:58
+  Ticket: 10697
+  Name: Trinisha Stefani Cody
+}
+CUSTOMER_BOARDS {
+  Time: 12:58
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:58
+  Ticket: 1160
+  Name: Jarod Shellyann Kyrstle
+}
+CUSTOMER_BOARDS {
+  Time: 12:58
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:58
+  Ticket: 3369
+  Name: Sammie Alesandra
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:58
+  Ticket: 9354
+  Name: Segundo Parry Amar
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:58
+  Ticket: 2355
+  Name: Laurance Oneill Hilbert
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:58
+  Ticket: 7527
+  Name: Donovon Ilsa
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:58
+  Ticket: 10667
+  Name: Ruthanna Asya
+}
+CUSTOMER_BOARDS {
+  Time: 12:58
+}
+CUSTOMER_BOARDS {
+  Time: 12:58
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:58
+  Ticket: 7891
+  Name: Ladon Linday Cayce
+}
+CUSTOMER_BOARDS {
+  Time: 12:58
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:58
+  Ticket: 6593
+  Name: Clarisse Jeremi
+}
+CUSTOMER_BOARDS {
+  Time: 12:59
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:59
+  Ticket: 5772
+  Name: Deserea Toniann
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:59
+  Ticket: 4475
+  Name: Tyanna Kierston Seda
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:59
+  Ticket: 9937
+  Name: Demonta Vita Amorette
+}
+CUSTOMER_BOARDS {
+  Time: 12:59
+}
+CUSTOMER_BOARDS {
+  Time: 12:59
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:59
+  Ticket: 1675
+  Name: Fotini Cyrus Tyrek
+}
+CUSTOMER_BOARDS {
+  Time: 12:59
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:59
+  Ticket: 1727
+  Name: Ivory Ferlando
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:59
+  Ticket: 10898
+  Name: Tarun Kenney
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:59
+  Ticket: 2290
+  Name: Errika Milana Janeka
+}
+CUSTOMER_BOARDS {
+  Time: 12:59
+}
+CUSTOMER_BOARDS {
+  Time: 12:59
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:59
+  Ticket: 1806
+  Name: Johnica Kimberly Shelsea
+}
+CUSTOMER_BOARDS {
+  Time: 12:59
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:59
+  Ticket: 2033
+  Name: Shariah Neha
+}
+CUSTOMER_ENQUEUES {
+  Time: 12:59
+  Ticket: 9722
+  Name: Farrel Keyon Deena
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:00
+  Ticket: 9631
+  Name: Fallynn Hugues Chike
+}
+CUSTOMER_BOARDS {
+  Time: 13:00
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:00
+  Ticket: 6262
+  Name: Raynold Dornell Consuelo
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:00
+  Ticket: 7540
+  Name: Swati Tashiana
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:00
+  Ticket: 8412
+  Name: Maurissa Romney Kayanna
+}
+CUSTOMER_BOARDS {
+  Time: 13:00
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:00
+  Ticket: 6973
+  Name: Kalib Stefany
+}
+CUSTOMER_BOARDS {
+  Time: 13:00
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:00
+  Ticket: 8759
+  Name: Demetri Ancil Marcos
+}
+CUSTOMER_BOARDS {
+  Time: 13:00
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:00
+  Ticket: 10915
+  Name: Stephana Shalayne Dwana
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:00
+  Ticket: 3807
+  Name: Jayleen Nekeshia Tynia
+}
+CUSTOMER_BOARDS {
+  Time: 13:00
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:00
+  Ticket: 3492
+  Name: Sesar Corie Cherita
+}
+CUSTOMER_BOARDS {
+  Time: 13:00
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:00
+  Ticket: 4026
+  Name: Merlin Sonnie
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:01
+  Ticket: 10027
+  Name: Sharlie Michala
+}
+CUSTOMER_BOARDS {
+  Time: 13:01
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:01
+  Ticket: 5836
+  Name: Donicia Jamilee Zenaida
+}
+CUSTOMER_BOARDS {
+  Time: 13:01
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:01
+  Ticket: 1391
+  Name: Tandra Koryn Renny
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:01
+  Ticket: 4199
+  Name: Buffy Keundra
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:01
+  Ticket: 5788
+  Name: Joron Macus
+}
+CUSTOMER_BOARDS {
+  Time: 13:01
+}
+CUSTOMER_BOARDS {
+  Time: 13:01
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:01
+  Ticket: 10658
+  Name: Xochitl Genise Sharhonda
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:01
+  Ticket: 5955
+  Name: Signe Cerrissa
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:01
+  Ticket: 10343
+  Name: Lyndia Arch
+}
+CUSTOMER_BOARDS {
+  Time: 13:01
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:01
+  Ticket: 4246
+  Name: Kaylynn Sea
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:01
+  Ticket: 2743
+  Name: Cira Bari Wendie
+}
+CUSTOMER_BOARDS {
+  Time: 13:01
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:02
+  Ticket: 4936
+  Name: Nickisha Giana Nader
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:02
+  Ticket: 7643
+  Name: Soua Ardith
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:02
+  Ticket: 1483
+  Name: Hyrum Nyshia Sharhonda
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:02
+  Ticket: 5797
+  Name: Arisa Brittney Destany
+}
+CUSTOMER_BOARDS {
+  Time: 13:02
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:02
+  Ticket: 5685
+  Name: Johnrobert Rekita
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:02
+  Ticket: 9399
+  Name: Dallan Sharis
+}
+CUSTOMER_BOARDS {
+  Time: 13:02
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:02
+  Ticket: 1400
+  Name: Massiel Gino Panayiotis
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:02
+  Ticket: 9061
+  Name: Linh Casanova
+}
+CUSTOMER_BOARDS {
+  Time: 13:02
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:02
+  Ticket: 8676
+  Name: Dori Chrysta Demitri
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:02
+  Ticket: 10195
+  Name: Atiya Santana
+}
+CUSTOMER_BOARDS {
+  Time: 13:02
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:03
+  Ticket: 2637
+  Name: Yanira Arlington
+}
+CUSTOMER_BOARDS {
+  Time: 13:03
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:03
+  Ticket: 5681
+  Name: Geron Resha Quantez
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:03
+  Ticket: 4057
+  Name: Leisl Shatonna Sol
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:03
+  Ticket: 10044
+  Name: Hannibal Venesa Tymel
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:03
+  Ticket: 5789
+  Name: Glorimar Davell Rashad
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:03
+  Ticket: 2340
+  Name: Sharity Chuong
+}
+CUSTOMER_BOARDS {
+  Time: 13:03
+}
+CUSTOMER_BOARDS {
+  Time: 13:03
+}
+CUSTOMER_BOARDS {
+  Time: 13:03
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:03
+  Ticket: 3911
+  Name: Walton Lillian
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:03
+  Ticket: 8592
+  Name: Albin Meghen Danuel
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:03
+  Ticket: 4090
+  Name: Laterrica Kileen
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:03
+  Ticket: 3472
+  Name: Krissa Electa Marcel
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:03
+  Ticket: 9226
+  Name: Sanjuanita Hagan Alonso
+}
+CUSTOMER_BOARDS {
+  Time: 13:03
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:04
+  Ticket: 7285
+  Name: Vickey Etty Kylen
+}
+CUSTOMER_BOARDS {
+  Time: 13:04
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:04
+  Ticket: 7825
+  Name: Beverley Tamkia Heather
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:04
+  Ticket: 7903
+  Name: Joenathan Pearl Malessa
+}
+CUSTOMER_BOARDS {
+  Time: 13:04
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:04
+  Ticket: 10698
+  Name: Jamerson Jentry
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:04
+  Ticket: 6828
+  Name: Katana Annetta
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:04
+  Ticket: 7319
+  Name: Tell Herminio
+}
+CUSTOMER_BOARDS {
+  Time: 13:04
+}
+CUSTOMER_BOARDS {
+  Time: 13:04
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:04
+  Ticket: 3109
+  Name: Jarae Prisca Stepen
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:04
+  Ticket: 7037
+  Name: Lizzett Belicia Shauntell
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:04
+  Ticket: 10478
+  Name: Johanthan Corianne Kerby
+}
+CUSTOMER_BOARDS {
+  Time: 13:04
+}
+CUSTOMER_BOARDS {
+  Time: 13:05
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:05
+  Ticket: 9536
+  Name: Leya Chanee
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:05
+  Ticket: 1046
+  Name: Jessicah Janesa
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:05
+  Ticket: 6461
+  Name: Kenyonna Rosibel
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:05
+  Ticket: 5551
+  Name: Mistie Anas Lailani
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:05
+  Ticket: 6959
+  Name: Calisha Aiesha Maurio
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:05
+  Ticket: 2973
+  Name: Amelia Janiqua
+}
+CUSTOMER_BOARDS {
+  Time: 13:05
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:05
+  Ticket: 5469
+  Name: Nicklas Rico Garet
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:05
+  Ticket: 4230
+  Name: Arif Taniqua
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:05
+  Ticket: 9147
+  Name: Nekita Billyjack Jes
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:05
+  Ticket: 8575
+  Name: Kashana Anuj Caine
+}
+CUSTOMER_BOARDS {
+  Time: 13:05
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:05
+  Ticket: 6160
+  Name: Jenel Onyx Latresha
+}
+CUSTOMER_BOARDS {
+  Time: 13:06
+}
+CUSTOMER_BOARDS {
+  Time: 13:06
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:06
+  Ticket: 5076
+  Name: Marcelle Shakeeta
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:06
+  Ticket: 4101
+  Name: Tiffny Savana Stasha
+}
+CUSTOMER_BOARDS {
+  Time: 13:06
+}
+CUSTOMER_BOARDS {
+  Time: 13:06
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:06
+  Ticket: 2760
+  Name: Harlen Lucas
+}
+CUSTOMER_BOARDS {
+  Time: 13:06
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:06
+  Ticket: 7257
+  Name: Hal Chamika
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:06
+  Ticket: 2333
+  Name: Quincy Deval
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:06
+  Ticket: 5941
+  Name: Curtissa Chasiti Ayleen
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:06
+  Ticket: 2485
+  Name: Layne Rohan Taja
+}
+CUSTOMER_BOARDS {
+  Time: 13:06
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:06
+  Ticket: 3706
+  Name: Adan Maile Vonda
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:06
+  Ticket: 6355
+  Name: Tracie Candra
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:06
+  Ticket: 4451
+  Name: Idella Sina
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:06
+  Ticket: 6638
+  Name: Coutney Dartagnan
+}
+CUSTOMER_BOARDS {
+  Time: 13:07
+}
+CUSTOMER_BOARDS {
+  Time: 13:07
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:07
+  Ticket: 1400
+  Name: Kaeleigh Jarret
+}
+CUSTOMER_BOARDS {
+  Time: 13:07
+}
+CUSTOMER_BOARDS {
+  Time: 13:07
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:07
+  Ticket: 2966
+  Name: Marybell Elija Geoffry
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:07
+  Ticket: 9119
+  Name: Levelle Jad Mandee
+}
+CUSTOMER_BOARDS {
+  Time: 13:07
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:07
+  Ticket: 7004
+  Name: Vianca Terisha Lateef
+}
+CUSTOMER_BOARDS {
+  Time: 13:07
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:07
+  Ticket: 9588
+  Name: Cassady Shealyn
+}
+CUSTOMER_BOARDS {
+  Time: 13:07
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:07
+  Ticket: 9997
+  Name: Angelito Alexcia Terriann
+}
+CUSTOMER_BOARDS {
+  Time: 13:07
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:07
+  Ticket: 10906
+  Name: Chalsea Sofie
+}
+CUSTOMER_BOARDS {
+  Time: 13:07
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:07
+  Ticket: 9904
+  Name: Graham Geoffery
+}
+CUSTOMER_BOARDS {
+  Time: 13:08
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:08
+  Ticket: 8693
+  Name: Artrice Ania
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:08
+  Ticket: 3258
+  Name: Tabithia Lauro Farhan
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:08
+  Ticket: 6851
+  Name: Sandee Mickala Jakob
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:08
+  Ticket: 6948
+  Name: Diondra Augustina Grace
+}
+CUSTOMER_BOARDS {
+  Time: 13:08
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:08
+  Ticket: 8190
+  Name: Jermel Tynise
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:08
+  Ticket: 1612
+  Name: Harlen Edrick
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:08
+  Ticket: 1987
+  Name: Brittin Kinzi Kaeo
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:08
+  Ticket: 7664
+  Name: Jace Damond Karrissa
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:08
+  Ticket: 4601
+  Name: Dominga Dejaun
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:08
+  Ticket: 2014
+  Name: Tuyen Semone
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:09
+  Ticket: 10556
+  Name: Thang Honora Alycen
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:09
+  Ticket: 7520
+  Name: Randolf Ann
+}
+CUSTOMER_BOARDS {
+  Time: 13:09
+}
+CUSTOMER_BOARDS {
+  Time: 13:09
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:09
+  Ticket: 9639
+  Name: Lafe Meisha
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:09
+  Ticket: 3167
+  Name: Kofi Freeman Mikio
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:09
+  Ticket: 6183
+  Name: Dustie Karina Sharree
+}
+CUSTOMER_BOARDS {
+  Time: 13:09
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:09
+  Ticket: 1046
+  Name: Zebulun Granville Latron
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:09
+  Ticket: 4832
+  Name: Cailin Regina Haunani
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:09
+  Ticket: 7198
+  Name: Jemima Valorie Sanquetta
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:09
+  Ticket: 3106
+  Name: Daniela Justice Tyrin
+}
+CUSTOMER_BOARDS {
+  Time: 13:09
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:09
+  Ticket: 10273
+  Name: Naquita Dayn Demetrio
+}
+CUSTOMER_BOARDS {
+  Time: 13:09
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:10
+  Ticket: 2585
+  Name: Kaila Alnisa
+}
+CUSTOMER_BOARDS {
+  Time: 13:10
+}
+CUSTOMER_BOARDS {
+  Time: 13:10
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:10
+  Ticket: 2614
+  Name: Cherly Arnita
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:10
+  Ticket: 7864
+  Name: Kailie Chaston Andrian
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:10
+  Ticket: 9818
+  Name: Chino Romeka
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:10
+  Ticket: 8670
+  Name: Roddy Shawanda Mariadel
+}
+CUSTOMER_BOARDS {
+  Time: 13:10
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:10
+  Ticket: 10253
+  Name: Lashon Lucianna Lacresha
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:10
+  Ticket: 3355
+  Name: Terria Heba Ashlley
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:10
+  Ticket: 1230
+  Name: Sarahlynn Heith Ladina
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:10
+  Ticket: 8968
+  Name: Kyra Payton
+}
+CUSTOMER_BOARDS {
+  Time: 13:10
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:10
+  Ticket: 2888
+  Name: Coree Jamese
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:11
+  Ticket: 3732
+  Name: Kayley Jaffar Harold
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:11
+  Ticket: 2986
+  Name: Milagro Danialle Wylie
+}
+CUSTOMER_BOARDS {
+  Time: 13:11
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:11
+  Ticket: 7598
+  Name: Lequita Narayana
+}
+CUSTOMER_BOARDS {
+  Time: 13:11
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:11
+  Ticket: 3847
+  Name: Akil Deshae Elli
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:11
+  Ticket: 4571
+  Name: Pranay Abbagail Dayn
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:11
+  Ticket: 6455
+  Name: Avelino Otis
+}
+CUSTOMER_BOARDS {
+  Time: 13:11
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:11
+  Ticket: 2109
+  Name: Shevelle Damara
+}
+CUSTOMER_BOARDS {
+  Time: 13:11
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:11
+  Ticket: 5246
+  Name: Cortnee Durrel
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:11
+  Ticket: 1844
+  Name: Tira Bettina Lejon
+}
+CUSTOMER_BOARDS {
+  Time: 13:11
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:11
+  Ticket: 9997
+  Name: Corrissa Boy Ayman
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:12
+  Ticket: 3718
+  Name: Shola Mikia Karolina
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:12
+  Ticket: 8333
+  Name: Mickelle Huston
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:12
+  Ticket: 4849
+  Name: Eleana Samuell Sabreena
+}
+CUSTOMER_BOARDS {
+  Time: 13:12
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:12
+  Ticket: 1411
+  Name: Kaly Joni Montie
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:12
+  Ticket: 1439
+  Name: Briza Chantay
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:12
+  Ticket: 9155
+  Name: Lucia Trinette
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:12
+  Ticket: 7204
+  Name: Tabia Marguita Shemicka
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:12
+  Ticket: 10690
+  Name: Natoya Tarria
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:12
+  Ticket: 9883
+  Name: Ariana Hayden Stefany
+}
+CUSTOMER_BOARDS {
+  Time: 13:12
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:12
+  Ticket: 7230
+  Name: Mathew Catharine Josette
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:13
+  Ticket: 4240
+  Name: Kandee Jesus
+}
+CUSTOMER_BOARDS {
+  Time: 13:13
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:13
+  Ticket: 8286
+  Name: Lincoln Shalanda Zacharian
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:13
+  Ticket: 6441
+  Name: Somer Taquoya Dominque
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:13
+  Ticket: 8998
+  Name: Lakysha Sarina Jenise
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:13
+  Ticket: 1511
+  Name: Jolita Antigone
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:13
+  Ticket: 4141
+  Name: Shekinah Kachina Davinia
+}
+CUSTOMER_BOARDS {
+  Time: 13:13
+}
+CUSTOMER_BOARDS {
+  Time: 13:13
+}
+CUSTOMER_BOARDS {
+  Time: 13:13
+}
+CUSTOMER_BOARDS {
+  Time: 13:13
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:13
+  Ticket: 2981
+  Name: Kelsee Zakia Levy
+}
+CUSTOMER_BOARDS {
+  Time: 13:13
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:13
+  Ticket: 7143
+  Name: Annaalicia Eward Kelsey
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:13
+  Ticket: 1068
+  Name: Michaeal Shamaya
+}
+CUSTOMER_BOARDS {
+  Time: 13:13
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:13
+  Ticket: 4247
+  Name: Keyra Joi
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:14
+  Ticket: 9760
+  Name: Priya Carita
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:14
+  Ticket: 6906
+  Name: Payton Renelle Denetria
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:14
+  Ticket: 5254
+  Name: Cayman Ramero
+}
+CUSTOMER_BOARDS {
+  Time: 13:14
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:14
+  Ticket: 4233
+  Name: Tam Fredrika
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:14
+  Ticket: 10862
+  Name: Lashanda Curtiss
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:14
+  Ticket: 9285
+  Name: Elisabel Ashely Jadira
+}
+CUSTOMER_BOARDS {
+  Time: 13:14
+}
+CUSTOMER_BOARDS {
+  Time: 13:14
+}
+CUSTOMER_BOARDS {
+  Time: 13:14
+}
+CUSTOMER_BOARDS {
+  Time: 13:14
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:14
+  Ticket: 7621
+  Name: Toye Elias
+}
+CUSTOMER_BOARDS {
+  Time: 13:14
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:14
+  Ticket: 4830
+  Name: Domanic Ivett Johnathen
+}
+CUSTOMER_BOARDS {
+  Time: 13:14
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:14
+  Ticket: 5723
+  Name: Joshuah Chinwe Jorje
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:14
+  Ticket: 9200
+  Name: Joushua Corney Jim
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:15
+  Ticket: 5414
+  Name: Sirron Kaipo
+}
+CUSTOMER_BOARDS {
+  Time: 13:15
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:15
+  Ticket: 1029
+  Name: Lafonda Lakeita Marshawn
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:15
+  Ticket: 3617
+  Name: Evan Thang Gerry
+}
+CUSTOMER_BOARDS {
+  Time: 13:15
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:15
+  Ticket: 3982
+  Name: Jimena Gregroy Akira
+}
+CUSTOMER_BOARDS {
+  Time: 13:15
+}
+CUSTOMER_BOARDS {
+  Time: 13:15
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:15
+  Ticket: 2182
+  Name: Chans Ezequiel
+}
+CUSTOMER_BOARDS {
+  Time: 13:15
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:15
+  Ticket: 1697
+  Name: Arianna Earnestine Kaysee
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:15
+  Ticket: 3462
+  Name: Ashle Kearra
+}
+CUSTOMER_BOARDS {
+  Time: 13:15
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:15
+  Ticket: 1942
+  Name: Jerold Erricka Lenora
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:15
+  Ticket: 9364
+  Name: Kristalynn Laine Griffin
+}
+CUSTOMER_BOARDS {
+  Time: 13:15
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:15
+  Ticket: 1751
+  Name: Orenthal Treasa Taheerah
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:16
+  Ticket: 6698
+  Name: Annika Darline Shaylene
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:16
+  Ticket: 1773
+  Name: Christ Edmon
+}
+CUSTOMER_BOARDS {
+  Time: 13:16
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:16
+  Ticket: 3824
+  Name: Caycie Jerardo Domenik
+}
+CUSTOMER_BOARDS {
+  Time: 13:16
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:16
+  Ticket: 9449
+  Name: Kenji Riana
+}
+CUSTOMER_BOARDS {
+  Time: 13:16
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:16
+  Ticket: 4718
+  Name: Retta Elvis Towana
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:16
+  Ticket: 4922
+  Name: Regine Sharief
+}
+CUSTOMER_BOARDS {
+  Time: 13:16
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:16
+  Ticket: 9945
+  Name: Justice Leshawn Thomson
+}
+CUSTOMER_BOARDS {
+  Time: 13:16
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:16
+  Ticket: 2145
+  Name: Ondrea Debora General
+}
+CUSTOMER_BOARDS {
+  Time: 13:16
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:16
+  Ticket: 6838
+  Name: Romana Karima Ambyr
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:16
+  Ticket: 4345
+  Name: Idelfonso Alyx
+}
+CUSTOMER_BOARDS {
+  Time: 13:16
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:17
+  Ticket: 7100
+  Name: Zong Josten Aunna
+}
+CUSTOMER_BOARDS {
+  Time: 13:17
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:17
+  Ticket: 1602
+  Name: Junita Shacora
+}
+CUSTOMER_BOARDS {
+  Time: 13:17
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:17
+  Ticket: 10907
+  Name: Bethani Eliu Seanpatrick
+}
+CUSTOMER_BOARDS {
+  Time: 13:17
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:17
+  Ticket: 2948
+  Name: Shardi Josi
+}
+CUSTOMER_BOARDS {
+  Time: 13:17
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:17
+  Ticket: 1806
+  Name: Johnelle Dashawna
+}
+CUSTOMER_BOARDS {
+  Time: 13:17
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:17
+  Ticket: 3431
+  Name: Marquita Shahin
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:17
+  Ticket: 4196
+  Name: Damont Candiace Dijon
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:17
+  Ticket: 1905
+  Name: Olando Serah Delmer
+}
+CUSTOMER_BOARDS {
+  Time: 13:17
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:17
+  Ticket: 3368
+  Name: Brandun Mathaniel Taeisha
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:17
+  Ticket: 6389
+  Name: Quintisha Danesa Lamara
+}
+CUSTOMER_BOARDS {
+  Time: 13:17
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:18
+  Ticket: 9916
+  Name: Kasie Leshae Gila
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:18
+  Ticket: 7597
+  Name: Kristyann Peri Nadine
+}
+CUSTOMER_BOARDS {
+  Time: 13:18
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:18
+  Ticket: 7669
+  Name: Felesha Kathie
+}
+CUSTOMER_BOARDS {
+  Time: 13:18
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:18
+  Ticket: 1114
+  Name: Dai Emily Esmeralda
+}
+CUSTOMER_BOARDS {
+  Time: 13:18
+}
+CUSTOMER_BOARDS {
+  Time: 13:18
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:18
+  Ticket: 7327
+  Name: Crystalann Danesa Patsy
+}
+CUSTOMER_BOARDS {
+  Time: 13:18
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:18
+  Ticket: 7282
+  Name: Darleen Tarry
+}
+CUSTOMER_BOARDS {
+  Time: 13:18
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:18
+  Ticket: 1656
+  Name: Kerrianne Adell
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:18
+  Ticket: 4765
+  Name: Parnell Rasul
+}
+CUSTOMER_BOARDS {
+  Time: 13:18
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:18
+  Ticket: 5177
+  Name: Octaviano Keiandra
+}
+CUSTOMER_BOARDS {
+  Time: 13:18
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:18
+  Ticket: 9931
+  Name: Santo Aarika Eloisa
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:18
+  Ticket: 7466
+  Name: Lyly Asher Barney
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:19
+  Ticket: 8997
+  Name: Tambria Verna
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:19
+  Ticket: 10598
+  Name: Shunteria Tray
+}
+CUSTOMER_BOARDS {
+  Time: 13:19
+}
+CUSTOMER_BOARDS {
+  Time: 13:19
+}
+CUSTOMER_BOARDS {
+  Time: 13:19
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:19
+  Ticket: 3510
+  Name: Verlin Santanna
+}
+CUSTOMER_BOARDS {
+  Time: 13:19
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:19
+  Ticket: 7668
+  Name: Rigel Lubna
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:19
+  Ticket: 10627
+  Name: Marianne Jory Reanna
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:19
+  Ticket: 2254
+  Name: Kristianne Jasleen
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:19
+  Ticket: 4180
+  Name: Olin Christel
+}
+CUSTOMER_BOARDS {
+  Time: 13:19
+}
+CUSTOMER_BOARDS {
+  Time: 13:19
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:19
+  Ticket: 3620
+  Name: Bradley Margarita
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:19
+  Ticket: 6184
+  Name: Akim China Rosella
+}
+CUSTOMER_BOARDS {
+  Time: 13:19
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:20
+  Ticket: 8271
+  Name: Candie Emilly
+}
+CUSTOMER_BOARDS {
+  Time: 13:20
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:20
+  Ticket: 9278
+  Name: Aditya Kashira Oneill
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:20
+  Ticket: 2487
+  Name: Diana Daphine
+}
+CUSTOMER_BOARDS {
+  Time: 13:20
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:20
+  Ticket: 2041
+  Name: Halee Truc
+}
+CUSTOMER_BOARDS {
+  Time: 13:20
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:20
+  Ticket: 8250
+  Name: Alba Melina
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:20
+  Ticket: 3626
+  Name: Kania Jolean
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:20
+  Ticket: 9744
+  Name: Frida Keiko Kean
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:20
+  Ticket: 1111
+  Name: Joshuea Atie Britnei
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:20
+  Ticket: 8405
+  Name: Cleon Arial
+}
+CUSTOMER_BOARDS {
+  Time: 13:20
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:20
+  Ticket: 9179
+  Name: Taressa Peri
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:20
+  Ticket: 7913
+  Name: Noel Nakeita
+}
+CUSTOMER_BOARDS {
+  Time: 13:21
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:21
+  Ticket: 10708
+  Name: Roya Kaly
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:21
+  Ticket: 10467
+  Name: Afaf Damien Desaray
+}
+CUSTOMER_BOARDS {
+  Time: 13:21
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:21
+  Ticket: 7123
+  Name: Omaira Fara
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:21
+  Ticket: 2161
+  Name: Inge Denzel Candia
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:21
+  Ticket: 10466
+  Name: Shashana Tenell Rivka
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:21
+  Ticket: 1426
+  Name: Shevon Oliva
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:21
+  Ticket: 7155
+  Name: Elysa Eliesha
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:21
+  Ticket: 10901
+  Name: Christalle Tarnesha Cathern
+}
+CUSTOMER_BOARDS {
+  Time: 13:21
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:21
+  Ticket: 4092
+  Name: Gaurav Josecarlos Heide
+}
+CUSTOMER_BOARDS {
+  Time: 13:21
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:22
+  Ticket: 3517
+  Name: Catiria Kerie Shalin
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:22
+  Ticket: 2760
+  Name: Reno Erek
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:22
+  Ticket: 5786
+  Name: Destani Sha
+}
+CUSTOMER_BOARDS {
+  Time: 13:22
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:22
+  Ticket: 7445
+  Name: Solange Stephnie
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:22
+  Ticket: 6628
+  Name: Bryana Brion Shakemia
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:22
+  Ticket: 1962
+  Name: Aric Shanisha Siddharth
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:22
+  Ticket: 4952
+  Name: Daved Rashunda Mesha
+}
+CUSTOMER_BOARDS {
+  Time: 13:22
+}
+CUSTOMER_BOARDS {
+  Time: 13:22
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:22
+  Ticket: 1937
+  Name: Jossie Yakov
+}
+CUSTOMER_BOARDS {
+  Time: 13:22
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:22
+  Ticket: 3786
+  Name: Naseem Jeaneen Andrian
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:22
+  Ticket: 6614
+  Name: Kamber Sylena Chuong
+}
+CUSTOMER_BOARDS {
+  Time: 13:22
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:23
+  Ticket: 6089
+  Name: Tija Charnay
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:23
+  Ticket: 6569
+  Name: Charlisse Brieanna Cipriano
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:23
+  Ticket: 4228
+  Name: Shaul Lakeisha Tegan
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:23
+  Ticket: 8764
+  Name: Sokha Davonne Derric
+}
+CUSTOMER_BOARDS {
+  Time: 13:23
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:23
+  Ticket: 5414
+  Name: Etienne Milos
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:23
+  Ticket: 6111
+  Name: Nakecia Johnthomas Roth
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:23
+  Ticket: 9325
+  Name: Osamah Jeffey
+}
+CUSTOMER_BOARDS {
+  Time: 13:23
+}
+CUSTOMER_BOARDS {
+  Time: 13:23
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:23
+  Ticket: 6762
+  Name: Austyn Bijan
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:23
+  Ticket: 1793
+  Name: Kasandra Tymeka Eloy
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:23
+  Ticket: 4529
+  Name: Salima Yukiko
+}
+CUSTOMER_BOARDS {
+  Time: 13:23
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:24
+  Ticket: 4625
+  Name: Shantina Lorianna
+}
+CUSTOMER_BOARDS {
+  Time: 13:24
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:24
+  Ticket: 6536
+  Name: Lenzy Minique Romeo
+}
+CUSTOMER_BOARDS {
+  Time: 13:24
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:24
+  Ticket: 10189
+  Name: Amadeo Hasina
+}
+CUSTOMER_BOARDS {
+  Time: 13:24
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:24
+  Ticket: 10521
+  Name: Catrena Keeley Lasalle
+}
+CUSTOMER_BOARDS {
+  Time: 13:24
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:24
+  Ticket: 7103
+  Name: Lateef Jeana Ashla
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:24
+  Ticket: 3581
+  Name: Khristopher Mikaela
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:24
+  Ticket: 7110
+  Name: Nicholos Folasade Kenric
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:24
+  Ticket: 1886
+  Name: Demetrick Gisela
+}
+CUSTOMER_BOARDS {
+  Time: 13:24
+}
+CUSTOMER_BOARDS {
+  Time: 13:24
+}
+CUSTOMER_ENQUEUES {
+  Time: 13:24
+  Ticket: 9717
+  Name: Daneen Antonio Wykisha
+}
